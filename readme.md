@@ -2,7 +2,7 @@
 
 [DEMO](preska-jumb.netlify.app)
 
-##### game
+##### game made with React
 
 <p align="center">
   <img width="500" height="400" src="https://i.imgur.com/aFCOxyO.png">
