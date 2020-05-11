@@ -1,6 +1,6 @@
 # Jumb/Yahtzee
 
-[DEMO](preska-jumb.netlify.app)
+[DEMO](https://preska-jumb.netlify.app)
 
 ##### game made with React
 
